@@ -1,0 +1,12 @@
+SQL Files used for the project are in Phase 3 Sql Folder
+
+Schema.sql has all the create table scripts
+
+
+To Insert data run ProvidedData.sql
+
+
+Report queries are in Report_Queries_All. Sql file
+
+
+For report 7 , we have used a stored procedure, the code for that is in Report7_StoredProc.sql for easier reference
